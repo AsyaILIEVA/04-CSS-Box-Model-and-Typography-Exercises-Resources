@@ -1,0 +1,23 @@
+body{
+    background-color: dimgrey;
+}
+
+.btn{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 2px;
+    padding: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: rgba(255, 255, 255, 0.094);    
+}
+
+.primary-btn{
+    background-color: rgba(171, 175, 179, 0.779);
+}
